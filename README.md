@@ -63,5 +63,3 @@ Download the project, delete 175 rubric.pdf file and run
 ## Rubric And Total Assess Points
 
 https://github.com/SJSU-Fall2018-CS175/What-sForDinner/blob/master/175%20rubric.pdf
-
-# What-sForDinner
